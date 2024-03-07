@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Oráculo",
-    "slug": "my-app",
+    "slug": "oraculo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -29,7 +29,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "ef88eb3b-f49d-4379-b41b-bf04d05e595f"
+        "projectId": "1d6a5b5c-4567-47c3-b14b-7e42c24b771d"
       }
     }
   }
