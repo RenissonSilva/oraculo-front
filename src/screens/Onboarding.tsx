@@ -46,7 +46,7 @@ const data: OnboardingData[] = [
     id: 5,
     animation: require('../assets/animations/Reading.json'),
     title: 'Passo 4',
-    text: 'Quando conseguirem descobrir a idéia geral da história, o oráculo revelará todos os detalhes com a resolução',
+    text: 'Quando conseguirem descobrir a ideia geral da história, o oráculo revelará todos os detalhes com a resolução',
     textColor: '#002A2A',
     backgroundColor: '#ffa79d',
   },

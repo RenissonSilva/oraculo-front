@@ -7,7 +7,7 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "backgroundColor": "#481C7E"
+      "backgroundColor": "#A150FF"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -18,9 +18,10 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#481C7E"
+        "backgroundColor": "#A150FF"
       },
-      "package": "com.renissonsilva.oraculo"
+      "package": "com.renissonsilva.oraculo",
+      "versionCode": 6
     },
     "web": {
       "favicon": "./assets/favicon.png"
